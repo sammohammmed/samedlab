@@ -1,4 +1,4 @@
-cd /path/to/your/project   # انتقل إلى مجلد مشروعك
+src/appjsxcd /path/to/your/project   # انتقل إلى مجلد مشروعك
 git init
 git add .
 git commit -m "First commit - SAMMEDLAB project"
